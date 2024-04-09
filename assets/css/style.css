@@ -1,0 +1,81 @@
+/* Roboto font */
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }  
+
+  /* Card */
+  .card-text {
+    font-size: 1.1em;
+  }
+
+  .store {
+    font-size: 1em;
+    margin-bottom: 0px;
+  }
+
+  .location {
+    font-size: .8em;
+    margin-top: 0px;
+  }
+
+  /* price */
+
+  .price-div {
+    text-align: right;
+  }
+
+  .price1 {
+    font-size: 1em;
+    margin-left: auto;
+  }
+
+  .price2 {
+    font-size: 1.5em;
+  }
+
+  /* White Cuppon Logo */
+
+  .logo-white {
+    height: 3em;
+    padding-left: 2em;
+  }
+
+  /* Footer Form */
+  .footer-form {
+    width: 80%;
+    margin: 0 0 1em 0;
+    border-radius: 5px;
+  }
+
+  /* Footer Submit */
+
+  .footer-submit {
+    color: #212529;
+  }
+
+  /* Black Cuppon Logo */
+
+  .logo-black {
+    height: 2em;
+  }
